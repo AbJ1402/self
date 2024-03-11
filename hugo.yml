@@ -1,4 +1,35 @@
 baseURL: "https://abj1402.github.io/self/"
 languageCode: en-us
-title: My New Hugo Site
+title: Abhi Jaiswal
 theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+   Title: "Boi"
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/abhi-jaiswal/"
+    - name: instagram
+      url: "https://www.instagram.com/being_abj?igsh=MmowMzJraDBxODY%3D&utm_source=qr"
+    - name: gmail
+      url: "mailto:abhijaiswal11235@gmail.com"
+    - name: github
+      url: "https://github.com/AbJ1402"
+
+  cover:
+    linkFullImages: True
+
+menu:
+  main:
+    - identifier: books
+      name: Books
+      url: /books/
+      weight: 10
+    - identifier: gallery
+      name: Gallery
+      url: /gallery/
+      weight: 20
+    - identifier: furries
+      name: Furries
+      url: /furries/
+      weight: 30
