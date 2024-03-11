@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Abhi Jaiswal</title>
     <link>https://abj1402.github.io/self/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Abhi Jaiswal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2024 17:27:04 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 20:00:17 +0530</lastBuildDate>
     <atom:link href="https://abj1402.github.io/self/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Furries</title>
+      <link>https://abj1402.github.io/self/furries/</link>
+      <pubDate>Mon, 11 Mar 2024 20:00:17 +0530</pubDate>
+      <guid>https://abj1402.github.io/self/furries/</guid>
+      <description>Coco </description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>https://abj1402.github.io/self/books/</link>
+      <pubDate>Mon, 11 Mar 2024 19:59:35 +0530</pubDate>
+      <guid>https://abj1402.github.io/self/books/</guid>
+      <description>Must reads Sapiens Outliers Man&amp;rsquo;s Search for Meaning Ongoing Oneup by Peter Lynch Cycles of Time by Roger Penrose TBRs 1984 The Kite Runner </description>
+    </item>
     <item>
       <title>About</title>
       <link>https://abj1402.github.io/self/docs/about/</link>
       <pubDate>Mon, 11 Mar 2024 17:27:04 +0530</pubDate>
       <guid>https://abj1402.github.io/self/docs/about/</guid>
-      <description>#dnfsdlkfhjsgf</description>
+      <description></description>
     </item>
   </channel>
 </rss>
