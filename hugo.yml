@@ -26,9 +26,9 @@ menu:
       name: Books
       url: /books/
       weight: 10
-    - identifier: gallery
-      name: Gallery
-      url: /gallery/
+    - identifier: travels
+      name: Travels
+      url: /travels/
       weight: 20
     - identifier: furries
       name: Furries

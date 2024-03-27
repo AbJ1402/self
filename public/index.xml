@@ -16,6 +16,17 @@
       <description>Coco </description>
     </item>
     <item>
+      <title>Travels</title>
+      <link>http://localhost:1313/self/travels/</link>
+      <pubDate>Mon, 11 Mar 2024 20:00:17 +0530</pubDate>
+      <guid>http://localhost:1313/self/travels/</guid>
+      <description> 2024
+Dwarka Somnath Diu 2023
+Goa Wayanad Bengaluru Mumbai 2022
+Cochin Trivandrum Pune 2021
+Dwarka Porbandar </description>
+    </item>
+    <item>
       <title>Books</title>
       <link>http://localhost:1313/self/books/</link>
       <pubDate>Mon, 11 Mar 2024 19:59:35 +0530</pubDate>
