@@ -4,15 +4,24 @@ date = 2024-03-11T19:59:35+05:30
 draft = false
 +++
 
-# Must reads
-* Sapiens
-* Outliers
-* Man's Search for Meaning
+# Literary Gems
+* **Sapiens: A Brief History of Humankind** by Yuval Noah Harrari
+* **Outliers** by Malcolm Gladwell
+* **Man's Search for Meaning** by Viktor E. Frankl
+* **The Devotion of Suspect X** by Keigo Higashino
 
-# Ongoing
-* Oneup by Peter Lynch
-* Cycles of Time by Roger Penrose
+# Underway
+* **Oneup** by Peter Lynch
+* **Lord of the Rings** by R R Tolkien
 
 # TBRs
-* 1984
-* The Kite Runner
+* **How to Win Friends and Influence People** by Dale Carnegie
+* **1984** by George Orwell
+* **The Kite Runner**  by Khaled Hosseini
+* **The Book Thief** by Markus Zusak
+
+# Cherished Pages
+* **Harry Potter** by J K Rowling 
+* Dan Brown collection
+* **Around the World in 80 days** by Jules Verne
+* **The Subtle Art of Not Giving A F*ck** by Mark Manson

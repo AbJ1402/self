@@ -5,7 +5,8 @@ theme: ["PaperMod"]
 
 params:
   homeInfoParams:
-   Title: "Boi"
+    Title: "Hello People!"
+    Content: Welcome to my personal website. Here you will get to know me better :)
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/abhi-jaiswal/"
