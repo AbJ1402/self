@@ -13,7 +13,7 @@ draft = false
     * Goa
     * Wayanad
     * Bengaluru
-    * Mumbai
+    * Mumbai aur
 
 * 2022
     * Cochin
