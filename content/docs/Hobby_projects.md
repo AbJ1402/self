@@ -8,7 +8,7 @@ weight: 108
 ---
 
 This website is one of my hobby projects :)
-
+***
 Thesaurus based on the books I am reading
-
+***
 Cooking delicacies for friends and family
