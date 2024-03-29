@@ -8,7 +8,7 @@ params:
     Title: "Hello People!"
     Content: Welcome to my personal website. Here you will get to know me better :)
   socialIcons:
-    - name: linkedin
+    - name: LinkedIn
       url: "https://www.linkedin.com/in/abhi-jaiswal/"
     - name: instagram
       url: "https://www.instagram.com/being_abj?igsh=MmowMzJraDBxODY%3D&utm_source=qr"
@@ -16,6 +16,8 @@ params:
       url: "mailto:abhijaiswal11235@gmail.com"
     - name: github
       url: "https://github.com/AbJ1402"
+    - name: CV
+      url: "https://drive.google.com/file/d/1_1Aej8cbj5M17yhMWByYjUBFrPo8-gix/view?usp=sharing"
 
   cover:
     linkFullImages: True

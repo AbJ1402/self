@@ -1,6 +1,6 @@
 +++
 title = 'Travels'
-date = 2024-03-11T20:00:17+05:30
+# date = 2024-03-11T20:00:17+05:30
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
     * Goa
     * Wayanad
     * Bengaluru
-    * Mumbai aur
+    * Mumbai
 
 * 2022
     * Cochin

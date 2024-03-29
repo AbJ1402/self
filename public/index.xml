@@ -9,37 +9,26 @@
     <lastBuildDate>Mon, 11 Mar 2024 20:00:17 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/self/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Furries</title>
-      <link>http://localhost:1313/self/furries/</link>
-      <pubDate>Mon, 11 Mar 2024 20:00:17 +0530</pubDate>
-      <guid>http://localhost:1313/self/furries/</guid>
-      <description>Coco </description>
-    </item>
-    <item>
-      <title>Travels</title>
-      <link>http://localhost:1313/self/travels/</link>
-      <pubDate>Mon, 11 Mar 2024 20:00:17 +0530</pubDate>
-      <guid>http://localhost:1313/self/travels/</guid>
-      <description> 2024
-Dwarka Somnath Diu 2023
-Goa Wayanad Bengaluru Mumbai 2022
-Cochin Trivandrum Pune 2021
-Dwarka Porbandar </description>
-    </item>
-    <item>
-      <title>Books</title>
-      <link>http://localhost:1313/self/books/</link>
-      <pubDate>Mon, 11 Mar 2024 19:59:35 +0530</pubDate>
-      <guid>http://localhost:1313/self/books/</guid>
-      <description>Literary Gems Sapiens: A Brief History of Humankind by Yuval Noah Harrari Outliers by Malcolm Gladwell Man&amp;rsquo;s Search for Meaning by Viktor E. Frankl The Devotion of Suspect X by Keigo Higashino Underway Oneup by Peter Lynch Lord of the Rings by R R Tolkien TBRs How to Win Friends and Influence People by Dale Carnegie 1984 by George Orwell The Kite Runner by Khaled Hosseini The Book Thief by Markus Zusak Cherished Pages Harry Potter by J K Rowling Dan Brown collection Around the World in 80 days by Jules Verne The Subtle Art of Not Giving A F*ck by Mark Manson </description>
-    </item>
-    <item>
       <title>About</title>
       <link>http://localhost:1313/self/docs/about/</link>
-      <pubDate>Mon, 11 Mar 2024 17:27:04 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/self/docs/about/</guid>
       <description>I possess experience in comprehending the functioning of Transformer models and accelerating these LLM models using futuristic technology namely In-Memory Computing. Additionally, I have hands-on expertise in enhancing the efficiency of the BERT model for a correspondence classification task.
 In addition to my passion for all things beyond Earth, my interests encompass machine learning algorithms, programming, and an insatiable curiosity to understand the underlying &amp;ldquo;why&amp;rdquo; and &amp;ldquo;what&amp;rdquo; behind a wide spectrum of subjects.</description>
+    </item>
+    <item>
+      <title>Work Experience</title>
+      <link>http://localhost:1313/self/docs/work_ex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/self/docs/work_ex/</guid>
+      <description>  </description>
+    </item>
+    <item>
+      <title>Leisure Pursuits</title>
+      <link>http://localhost:1313/self/docs/hobby_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/self/docs/hobby_projects/</guid>
+      <description>The things I do for myself</description>
     </item>
     <item>
       <title>Certifications</title>
@@ -58,13 +47,29 @@ Classical Cryptosystems and Core Concepts by University of Colorado
 Python Data Structures by University of Michigan</description>
     </item>
     <item>
-      <title>Hobby Projects</title>
-      <link>http://localhost:1313/self/docs/hobby_projects/</link>
-      <pubDate>Mon, 11 Mar 2024 17:27:04 +0530</pubDate>
-      <guid>http://localhost:1313/self/docs/hobby_projects/</guid>
-      <description>This website is one of my hobby projects :)
-Thesaurus based on the books I am reading
-Cooking delicacies for friends and family</description>
+      <title>Furries</title>
+      <link>http://localhost:1313/self/furries/</link>
+      <pubDate>Mon, 11 Mar 2024 20:00:17 +0530</pubDate>
+      <guid>http://localhost:1313/self/furries/</guid>
+      <description>Coco </description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/self/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/self/books/</guid>
+      <description>Literary Gems Sapiens: A Brief History of Humankind by Yuval Noah Harrari Outliers by Malcolm Gladwell Man&amp;rsquo;s Search for Meaning by Viktor E. Frankl The Devotion of Suspect X by Keigo Higashino Underway Oneup by Peter Lynch Lord of the Rings by R R Tolkien TBRs How to Win Friends and Influence People by Dale Carnegie 1984 by George Orwell The Kite Runner by Khaled Hosseini The Book Thief by Markus Zusak Cherished Pages Harry Potter by J K Rowling Dan Brown collection Around the World in 80 days by Jules Verne The Subtle Art of Not Giving A F*ck by Mark Manson </description>
+    </item>
+    <item>
+      <title>Travels</title>
+      <link>http://localhost:1313/self/travels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/self/travels/</guid>
+      <description> 2024
+Dwarka Somnath Diu 2023
+Goa Wayanad Bengaluru Mumbai 2022
+Cochin Trivandrum Pune 2021
+Dwarka Porbandar </description>
     </item>
   </channel>
 </rss>

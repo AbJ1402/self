@@ -2,6 +2,7 @@
 title = 'Certifications'
 date = 2024-03-11T17:27:04+05:30
 draft = false
+weight = 110 
 +++
 
 * [**Introduction to Managerial Economics**](https://drive.google.com/file/d/1i8qjsw156rLCvksnMnvymt24AwAOsx3K/view?usp=drive_link) by Indian Institute of Management Bangalore 
