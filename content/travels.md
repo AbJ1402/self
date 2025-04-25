@@ -4,7 +4,17 @@ title = 'Travels'
 draft = false
 +++
 
+* 2025
+    * Hyderabad
+    * Gokarna
+    * Kodaikanal
+
 * 2024
+    * Pondicherry
+    * Nashik
+    * Mumbai
+    * Mangalore
+    * Kannur
     * Dwarka
     * Somnath
     * Diu
@@ -23,3 +33,9 @@ draft = false
 * 2021
     * Dwarka
     * Porbandar
+
+* 2020
+    * Munnar
+
+* 2019
+    * Pondicherry
