@@ -21,7 +21,7 @@ weight = 102
 >   * **GDD Stages Model**: Drove a 82% expansion in supported varieties and geographies.
 >   * **Crop Health model**: Delivered reliable season-long monitoring, enabling a 11% expansion in supportedvarieties and geographies.
 >   * **Disease Early Warning System (DEWS)**: Independently debugged, deployed, and streamlined the codebase — enhancing operational efficiency and enabling early warnings of 40% more diseases for specific crop-variety and region combinations.
-> * **Yestech Yield model**: Spearheaded end-to-end model development cycle — from data sourcing and structuring to deploying a robust yield prediction model, tailored and delivered for client needs and scaled for a ~100, 000km$^{2}$ region.
+> * **Yestech Yield model**: Spearheaded end-to-end model development cycle — from data sourcing and structuring to deploying a robust yield prediction model, tailored and delivered for client needs and scaled for a ~100, 000km<sup>2</sup> region.
 > * **Impact Award Recipient (July 2025)** – Individually recognized for exceptional contributions that enhanced team collaboration, operational efficiency, and overall workplace impact.
 > * **Winner, Ag-celerate 2024 Hackathon**: Developed and implemented a leaf disease detection ML model for hybrid datasets with my team, achieving a significant accuracy of 93%.
 
