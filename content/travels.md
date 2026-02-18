@@ -8,6 +8,9 @@ draft = false
     * Hyderabad
     * Gokarna
     * Kodaikanal
+    * Hampi
+    * Goa
+    * Udaipur
 
 * 2024
     * Pondicherry
@@ -15,9 +18,7 @@ draft = false
     * Mumbai
     * Mangalore
     * Kannur
-    * Dwarka
-    * Somnath
-    * Diu
+    * Dwarka-Somnath-Diu
 
 * 2023
     * Goa

@@ -15,6 +15,7 @@ draft = false
 * **Lord of the Rings** by R R Tolkien
 * **The Body Keeps the Score** by Bessel van der Kolk
 * **The Black Swan** by Nassim Nicholas Taleb
+* **The Hard Thing About Hard Things** by Ben Horowitz
 
 ## TBRs
 * **How to Win Friends and Influence People** by Dale Carnegie
