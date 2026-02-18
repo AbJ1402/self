@@ -9,6 +9,9 @@ weight = 104
 
 {{< rawhtml >}}
 <ul>
+    <li><p style="text-align:left;"><strong>Chairperson</strong> Bangalore Chapter at IIST Alumni Association (<a href="uhttps://alumni.iist.org.in/home.dzl">IISTAA</a>)<span style="float:right;"> 2025-Ongoing </span></p></li> 
+    <em>Leading alumni engagement initiatives (chapter events, communications, networking) and contributing to national body efforts for strengthened institute-alumni relations and policy development.</em>
+
     <li><p style="text-align:left;"><strong>Finance Head</strong> at Conscientia 2k19 <span style="float:right;"> 2018–2019 </span></p></li> 
     <em>Administered the finance team, generated revenue and governed expenditures for the smooth functioning of the tech fest</em>
 
@@ -30,8 +33,8 @@ weight = 104
     <li><p style="text-align:left;"><strong>Organizer</strong> at Navratri Celebrations<span style="float:right;">Fall 2017</span></p></li> 
     <em>Organized the garba celebrations, catered and cooked some dishes</em>
     
-    <li><p style="text-align:left;">Participated in Cleanliness drives organized by Eco Club of IIST<span style="float:right;"></span></p></li> 
+    <li><p style="text-align:left;">Participated in Cleanliness drives organized by <strong>Eco Club</strong> of IIST<span style="float:right;"></span></p></li> 
     
-    <li><p style="text-align:left;">Engaged in volunteer teaching sessions for children in underprivileged rural communities. <span style="float:right;"></span></p></li> 
+    <li><p style="text-align:left;">Engaged in volunteer teaching sessions for children in underprivileged rural communities under the <strong>Nirman club</strong> of IIST. <span style="float:right;"></span></p></li> 
 </ul>
 {{< /rawhtml >}}
