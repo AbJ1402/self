@@ -4,6 +4,11 @@ title = 'Travels'
 draft = false
 +++
 
+* 2026
+    * Lonavala
+    * Wayanad
+    * Vietnam
+
 * 2025
     * Hyderabad
     * Gokarna

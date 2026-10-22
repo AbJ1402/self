@@ -10,12 +10,13 @@ draft = false
 * **Man's Search for Meaning** by Viktor E. Frankl
 * **The Devotion of Suspect X** by Keigo Higashino
 * **The Almanack Of Naval Ravikant**
+* **The Hard Thing About Hard Things** by Ben Horowitz
 
 ## Underway
 * **Lord of the Rings** by R R Tolkien
 * **The Body Keeps the Score** by Bessel van der Kolk
 * **The Black Swan** by Nassim Nicholas Taleb
-* **The Hard Thing About Hard Things** by Ben Horowitz
+* **The Art of War** by Sun Tzu
 
 ## TBRs
 * **How to Win Friends and Influence People** by Dale Carnegie
